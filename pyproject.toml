@@ -1,0 +1,7 @@
+[project]
+name = "safecompress"
+version = "0.1.0"
+description = "Small safetensors compression benchmark on Modal"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["modal>=1.0,<2"]
